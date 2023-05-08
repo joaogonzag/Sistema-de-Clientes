@@ -17,7 +17,7 @@ Para o desenvolvimentos desta API foi utilizada somente a linguagem C#, que reto
 
 Segue os requisitos para utilizar o projeto:
 
-- Necessário utilização do VISUAL STUDIO (Neste caso, utilizei a versão 2022 Comunnity);
+- Necessário utilização do VISUAL STUDIO (Neste caso, utilizei a versão Community 2022);
 - SqlServer 2019 (Para criação das tabelas e do banco de dados);
 - Postman (Para receber as requisições e devolver um objeto JSON);
 
